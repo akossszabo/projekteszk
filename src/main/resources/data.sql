@@ -1,0 +1,1 @@
+INSERT INTO PUBLIC.note(id,content,last_modified,title) VALUES (1,'this is a sample note','2000-01-01 00:00:00', 'sample note');
